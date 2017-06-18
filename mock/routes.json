@@ -1,0 +1,6 @@
+{
+  "/mock/auth/login": "/login",
+  "/mock/auth/authInfo": "/authInfo",
+  "/mock/user/:id/userInfo": "/userInfo",
+  "/mock/user/list": "/userList"
+}
